@@ -1,8 +1,8 @@
 [gd_scene load_steps=6 format=2]
 
-[ext_resource path="res://blackhole.png" type="Texture" id=1]
-[ext_resource path="res://imgbin_stars-shine-png.png" type="Texture" id=2]
-[ext_resource path="res://platformIndustrial_029.png" type="Texture" id=3]
+[ext_resource path="res://assets/blackhole.png" type="Texture" id=1]
+[ext_resource path="res://assets/imgbin_stars-shine-png.png" type="Texture" id=2]
+[ext_resource path="res://assets/platformIndustrial_029.png" type="Texture" id=3]
 [ext_resource path="res://assets/platformer-pack-medieval/PNG/medievalTile_143.png" type="Texture" id=4]
 [ext_resource path="res://scenes/Tile.gd" type="Script" id=5]
 
